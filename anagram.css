@@ -38,6 +38,7 @@ button {
 	margin-top:10px;
 	border-radius: 10px;
 	font-size:24px;
+	background-color: lightgrey;
 }
 #result {
 	text-align:center;
