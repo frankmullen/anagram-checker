@@ -50,4 +50,8 @@ button {
     header {
     	font-size:40px;
     }
+
+    button {
+	font-size:20px;
+}
 } 
